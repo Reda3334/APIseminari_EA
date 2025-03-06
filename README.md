@@ -1,3 +1,8 @@
+# Ejercicio resuelto
+He hecho el ejercicio, lo único es que no me sale el apartado en el swagger y no sé porque, ya que he seguido exactamente la misma estructura del user.
+
+
+
 # Prova API
 
 ## Descripció
