@@ -1,3 +1,10 @@
+
+# Ejercicio seminario react
+El ejercicio me funciona, para poder hacerlo me he basado en los videos que mandaron los compañeros por el chat, asi que copilot sobre todo para resolver el problema de _id.
+
+
+
+
 # Ejercicio resuelto
 He hecho el ejercicio, lo único es que no me sale el apartado en el swagger y no sé porque, ya que he seguido exactamente la misma estructura del user.
 
